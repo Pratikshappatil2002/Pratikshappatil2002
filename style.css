@@ -1,0 +1,17 @@
+.b
+{
+	background-color: blue;
+	width: 40%;
+	float: left;
+	padding: 2%;
+	margin-left:2%;
+}
+
+.a
+{
+	background-color: cyan;
+	width: 40%;
+	float: left;
+	padding: 2%;
+	margin-left:8%;
+}
